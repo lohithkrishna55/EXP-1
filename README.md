@@ -57,10 +57,16 @@ Calculation:
 
 a.   KVL:
  
+<img width="916" height="1280" alt="WhatsApp Image 2026-11-21 at 14 29 08" src="https://github.com/user-attachments/assets/f07afa04-5912-454c-a996-2168f3745af7" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/1a7742a9-a894-4ebb-a683-93b8be58a72e" />
 
 
 b.  KCL:
 
+<img width="831" height="1280" alt="image" src="https://github.com/user-attachments/assets/16e6f440-dbee-4ea0-a0ae-01bf192c3292" />
+
+<img width="894" height="1280" alt="image" src="https://github.com/user-attachments/assets/31da9f86-b384-46e0-b16e-9681d68fa4ab" />
 
 
 
